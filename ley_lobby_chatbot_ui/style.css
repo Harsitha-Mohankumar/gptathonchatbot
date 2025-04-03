@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Roche Sans';
+    src: url('./fonts/RocheSans-Regular.woff2') format('woff2'),
+         url('./fonts/RocheSans-Regular.woff') format('woff');
+}
+
+body {
+    font-family: 'Roche Sans', sans-serif;
+    color: #000000;
+}
+.sidebar {
+    background-color: #1482FA; 
+}
+
